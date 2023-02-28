@@ -1,1 +1,2 @@
-# Prime-Numbers.py
+# Prime-Numbers
+Finding prime numbers
